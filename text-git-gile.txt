@@ -1,3 +1,7 @@
 tra tra tra
 
+<<<<<<< HEAD
 branch master
+=======
+kakojto novij tekst v novoj vetke
+>>>>>>> new_branch
